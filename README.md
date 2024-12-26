@@ -1,0 +1,1 @@
+# OCR-to-extract-details-from-image-label
